@@ -670,8 +670,8 @@ footer p{
         box-shadow: inset 0 0 0 100vw rgba(41, 41, 41, 0.99);
     }   
     #home #container-home {
-        background-size: auto;
-        background-position: 57% 15%;
+        /* background-size: auto;
+        background-position: 57% 15%; */
     } 
     #home #container-home {
         padding: 90px 10px;
