@@ -715,7 +715,7 @@ footer p{
     #escolaridade {
         background: url('../img/Amsterdã-Mini.jpg');
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
         padding: 75px 20px 40px 20px;
     }
     #seta a{
@@ -730,7 +730,7 @@ footer p{
     #projetos {
         background: url('../img/cup-of-coffee-Mini.jpg');
         background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
         padding: 75px 20px 50px 20px;
     }
     #experiencia #redes li{
