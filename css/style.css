@@ -713,9 +713,7 @@ footer p{
         margin-top: 25px;
     }
     #escolaridade {
-        background: url('../img/Amsterdã-Mini.jpg');
-        background-repeat: no-repeat;
-        background-size: cover;
+        background: url('../img/Amsterdã-Mini.jpg') no-repeat;
         padding: 75px 20px 40px 20px;
     }
     #seta a{
@@ -728,9 +726,7 @@ footer p{
         padding: 15px;
     }
     #projetos {
-        background: url('../img/cup-of-coffee-Mini.jpg');
-        background-repeat: no-repeat;
-        background-size: cover;
+        background: url('../img/cup-of-coffee-Mini.jpg') no-repeat;
         padding: 75px 20px 50px 20px;
     }
     #experiencia #redes li{
